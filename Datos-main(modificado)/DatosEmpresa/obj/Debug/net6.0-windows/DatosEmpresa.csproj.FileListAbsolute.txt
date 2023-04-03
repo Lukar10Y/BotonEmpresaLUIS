@@ -1,0 +1,40 @@
+C:\Users\luisa\source\repos\DatosEmpresa\DatosEmpresa\bin\Debug\net6.0-windows\DatosEmpresa.exe
+C:\Users\luisa\source\repos\DatosEmpresa\DatosEmpresa\bin\Debug\net6.0-windows\DatosEmpresa.deps.json
+C:\Users\luisa\source\repos\DatosEmpresa\DatosEmpresa\bin\Debug\net6.0-windows\DatosEmpresa.runtimeconfig.json
+C:\Users\luisa\source\repos\DatosEmpresa\DatosEmpresa\bin\Debug\net6.0-windows\DatosEmpresa.dll
+C:\Users\luisa\source\repos\DatosEmpresa\DatosEmpresa\bin\Debug\net6.0-windows\DatosEmpresa.pdb
+C:\Users\luisa\source\repos\DatosEmpresa\DatosEmpresa\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\luisa\source\repos\DatosEmpresa\DatosEmpresa\obj\Debug\net6.0-windows\DatosEmpresa.csproj.AssemblyReference.cache
+C:\Users\luisa\source\repos\DatosEmpresa\DatosEmpresa\obj\Debug\net6.0-windows\DatosEmpresa.Form1.resources
+C:\Users\luisa\source\repos\DatosEmpresa\DatosEmpresa\obj\Debug\net6.0-windows\DatosEmpresa.csproj.GenerateResource.cache
+C:\Users\luisa\source\repos\DatosEmpresa\DatosEmpresa\obj\Debug\net6.0-windows\DatosEmpresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisa\source\repos\DatosEmpresa\DatosEmpresa\obj\Debug\net6.0-windows\DatosEmpresa.AssemblyInfoInputs.cache
+C:\Users\luisa\source\repos\DatosEmpresa\DatosEmpresa\obj\Debug\net6.0-windows\DatosEmpresa.AssemblyInfo.cs
+C:\Users\luisa\source\repos\DatosEmpresa\DatosEmpresa\obj\Debug\net6.0-windows\DatosEmpresa.csproj.CoreCompileInputs.cache
+C:\Users\luisa\source\repos\DatosEmpresa\DatosEmpresa\obj\Debug\net6.0-windows\DatosEmpresa.csproj.CopyComplete
+C:\Users\luisa\source\repos\DatosEmpresa\DatosEmpresa\obj\Debug\net6.0-windows\DatosEmpresa.dll
+C:\Users\luisa\source\repos\DatosEmpresa\DatosEmpresa\obj\Debug\net6.0-windows\refint\DatosEmpresa.dll
+C:\Users\luisa\source\repos\DatosEmpresa\DatosEmpresa\obj\Debug\net6.0-windows\DatosEmpresa.pdb
+C:\Users\luisa\source\repos\DatosEmpresa\DatosEmpresa\obj\Debug\net6.0-windows\DatosEmpresa.genruntimeconfig.cache
+C:\Users\luisa\source\repos\DatosEmpresa\DatosEmpresa\obj\Debug\net6.0-windows\ref\DatosEmpresa.dll
+C:\Users\luisa\source\repos\DatosEmpresa\DatosEmpresa\obj\Debug\net6.0-windows\DatosEmpresa.Properties.Resources.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Datos-main\DatosEmpresa\bin\Debug\net6.0-windows\DatosEmpresa.exe
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Datos-main\DatosEmpresa\bin\Debug\net6.0-windows\DatosEmpresa.deps.json
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Datos-main\DatosEmpresa\bin\Debug\net6.0-windows\DatosEmpresa.runtimeconfig.json
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Datos-main\DatosEmpresa\bin\Debug\net6.0-windows\DatosEmpresa.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Datos-main\DatosEmpresa\bin\Debug\net6.0-windows\DatosEmpresa.pdb
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Datos-main\DatosEmpresa\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Datos-main\DatosEmpresa\obj\Debug\net6.0-windows\DatosEmpresa.csproj.AssemblyReference.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Datos-main\DatosEmpresa\obj\Debug\net6.0-windows\DatosEmpresa.Form1.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Datos-main\DatosEmpresa\obj\Debug\net6.0-windows\DatosEmpresa.Properties.Resources.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Datos-main\DatosEmpresa\obj\Debug\net6.0-windows\DatosEmpresa.csproj.GenerateResource.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Datos-main\DatosEmpresa\obj\Debug\net6.0-windows\DatosEmpresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Datos-main\DatosEmpresa\obj\Debug\net6.0-windows\DatosEmpresa.AssemblyInfoInputs.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Datos-main\DatosEmpresa\obj\Debug\net6.0-windows\DatosEmpresa.AssemblyInfo.cs
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Datos-main\DatosEmpresa\obj\Debug\net6.0-windows\DatosEmpresa.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Datos-main\DatosEmpresa\obj\Debug\net6.0-windows\DatosEmpresa.csproj.CopyComplete
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Datos-main\DatosEmpresa\obj\Debug\net6.0-windows\DatosEmpresa.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Datos-main\DatosEmpresa\obj\Debug\net6.0-windows\refint\DatosEmpresa.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Datos-main\DatosEmpresa\obj\Debug\net6.0-windows\DatosEmpresa.pdb
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Datos-main\DatosEmpresa\obj\Debug\net6.0-windows\DatosEmpresa.genruntimeconfig.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Datos-main\DatosEmpresa\obj\Debug\net6.0-windows\ref\DatosEmpresa.dll

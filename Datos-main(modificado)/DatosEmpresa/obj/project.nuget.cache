@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7NGfAT3z1UGDl+Ugf6bwq8rhHPLBBSpughCgsEE6cecbdbipl01daXuCDekHXR+HzzrsWxZgSe62qxVXBX2sCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fran\\Documents\\VISUAL STUDIO\\COMUNNITY\\Datos-main\\DatosEmpresa\\DatosEmpresa.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fran\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
